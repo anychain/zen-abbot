@@ -17,7 +17,7 @@ from oslo_log import log as logging
 from oslo_policy import policy
 import six
 
-from abbot import exception
+from abbot.common import exception
 
 
 CONF = cfg.CONF

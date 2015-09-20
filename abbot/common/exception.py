@@ -17,7 +17,7 @@ from oslo_versionedobjects import exception as obj_exc
 import six
 import webob.exc
 
-from abbot.i18n import _, _LE
+from abbot.common.i18n import _, _LE
 
 
 LOG = logging.getLogger(__name__)

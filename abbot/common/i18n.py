@@ -11,7 +11,7 @@
 
 import oslo_i18n as i18n
 
-from cinder.openstack.common import gettextutils
+from abbot.common import gettextutils
 
 DOMAIN = 'abbot'
 

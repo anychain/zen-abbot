@@ -7,3 +7,6 @@
 # Author: Bryan HUANG (bryan@esse.io)
 #
 ###########################################
+
+ENGINE_TOPIC = 'abbot-engine'
+LISTENER_TOPIC = 'abbot-engine-listener'
